@@ -1,0 +1,5 @@
+.config/
+sample_data/
+*_exe
+*.log
+*.out
